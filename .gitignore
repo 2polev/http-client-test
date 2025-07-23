@@ -1,0 +1,7 @@
+**/build
+**/target/
+.idea/
+.vscode/
+*.iml
+ajcore*.txt
+pom.xml.versionsBackup
